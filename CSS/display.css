@@ -1,0 +1,24 @@
+span {
+    background-color: #90dbf4;
+    border: 1px solid black;
+    width: 500px;
+    padding: 50px;
+    margin: 50px;
+}
+
+h1 {
+    background-color: #29d895;
+    border: 1px solid black;
+    width: 300px;
+    padding: 50px;
+    margin: 100px;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: olivedrab;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 50px;
+}
